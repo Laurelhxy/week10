@@ -1,0 +1,13 @@
+.logo{
+   
+    height:90px !important;
+    width:90px !important;
+    margin: 0px !important;
+  }
+  li.nav-item a{
+color:white !important;
+
+  }
+  nav {margin-bottom: auto !important;}
+  body #about{height: auto !important;}
+ 
